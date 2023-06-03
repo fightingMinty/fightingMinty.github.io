@@ -1,1 +1,1 @@
-Click fightingMinty.github.io to visit my website
+Click http://fightingMinty.github.io to visit my website
